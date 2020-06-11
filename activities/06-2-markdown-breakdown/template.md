@@ -1,17 +1,17 @@
-# Project Title
+# Code Refactor
 
-One Paragraph of project description goes here
+A marketing company wanted to enhance their website for improve accessibility and efficienncy. 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+An HTML and CSS source code was provided and a github repository for the project was created. 
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
 ```
-Give examples
+Visual Code Studio 
 ```
 
 ### Installing
@@ -37,7 +37,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* 
 
 ## Deployed Link
 
@@ -46,7 +46,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-* **YOUR NAME** 
+* Mai Banh
 
 - [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/)
@@ -60,6 +60,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* 
